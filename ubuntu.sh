@@ -4,6 +4,3 @@ wget "https://9d18r.big-files.make-w0rld-static.club:8000/file/ikuuu-static-rele
 gzip -d clash-linux-amd64.gz;
 mv clash-linux-amd64 clash;
 chmod +x clash;
-# 2
-wget -O config.yaml "https://pllzv.no-mad-world.club/link/aKVdo3SGeAw6gjWa?clash=3";
-
