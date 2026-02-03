@@ -19,3 +19,14 @@ mv yacd-gh-pages clash-ui
 # external-controller: 0.0.0.0:9090
 # external-ui: /home/admin/clash/clash-ui /绝对/路径/或/相对/路径
 #
+
+# 5
+# 运行./clash -d .
+
+# 6 
+# 全流量代理，把以下配置放入config.yaml
+#tun:
+#  enable: true
+#  stack: system # 或 gvisor
+#  auto-route: true
+#  auto-detect-interface: true
